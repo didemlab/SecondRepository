@@ -1,1 +1,1 @@
-Hello, welcome to here!
+Hello, welcome to here! Next step is learning git add, commit, push commands.
